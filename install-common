@@ -1,0 +1,11 @@
+#!/usr/bin/env zsh
+#
+pushd $DOTFILES
+for folder in $(echo $STOW_FOLDERS | sed "s/,/ /g")
+do
+    stow --restow $folder
+done
+stow --adopt -R projects -t projects
+stow --adopt -R personal -t personal
+stow --adopt -R work -t work
+popd

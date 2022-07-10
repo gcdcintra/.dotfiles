@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#addToPathFront /home/cupoftea/n/bin
+addToPath /home/cupoftea/personal/lua-language-server/bin/Linux
