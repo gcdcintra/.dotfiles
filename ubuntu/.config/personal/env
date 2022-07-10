@@ -2,8 +2,6 @@
 
 setxkbmap -model pc105 -layout us -variant alt-intl
 
-export STOW_FOLDERS="bin,nvim,tmux,ubuntu,projects,personal,work,i3,zsh"
-
 die() {
     echo >&2 "$@"
     exit 1
