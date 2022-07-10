@@ -1,11 +1,23 @@
 #!/usr/bin/env zsh
-#
+
+# Initialize submodules
+git submodule update --init --recursive
+
+# Stow dotfiles
 pushd $DOTFILES
 for folder in $(echo $STOW_FOLDERS | sed "s/,/ /g")
 do
     stow --restow $folder
 done
-stow --adopt -R projects -t projects
-stow --adopt -R personal -t personal
-stow --adopt -R work -t work
+stow projects -t projects
+stow personal -t personal
+stow work -t work
 popd
+
+# Install lua-language-server
+#pushd $HOME/personal/
+#wget https://github.com/sumneko/lua-language-server/releases/download/3.4.2/lua-language-server-3.4.2-linux-x64.tar.gz
+#tar -xf lua-language-server-3.4.2-linux-x64.tar.gz -C lua-language-server
+#rm lua-language-server-3.4.2-linux-x64.tar.gz
+#popd
+
