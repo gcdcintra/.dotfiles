@@ -1,0 +1,9 @@
+[submodule "dotfiles/projects"]
+	path = dotfiles/projects
+	url = git@github.com:gcdcintra/projects.git
+[submodule "dotfiles/work"]
+	path = dotfiles/work
+	url = git@github.com:gcdcintra/work.git
+[submodule "dotfiles/personal"]
+	path = dotfiles/personal
+	url = git@github.com:gcdcintra/personal.git
