@@ -8744,3 +8744,128 @@
 [17:18:31.877][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
 [17:18:31.877][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
 [17:18:31.877][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:07.879][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/03/30e362439f0be75efac5489fca0ae5ffb6c8b1
+[17:19:07.881][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/index
+[17:19:07.882][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:07.882][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:07.882][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:07.882][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:07.882][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:07.882][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:07.882][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:07.882][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.883][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/0c/9ee3dde915be4f241e92e7b498f1ada6c84189
+[17:19:24.884][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/e5/26097713feb4940a3f5896ddd860260a768585
+[17:19:24.884][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/index
+[17:19:24.885][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/b3/0eafb1096959d1f92cb5a7ebbd4394c4e6ebb0
+[17:19:24.886][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/b4/3131e6e5647e4d8655082a7f9ac316d2924554
+[17:19:24.886][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/e8/ef8b17a4dc539ebabaaf26a0cd2ff049372e4f
+[17:19:24.886][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/b7/e9bc47973df28bba8afe481cebee564a265090
+[17:19:24.886][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/d8/388c9ee832a7fe9eda901b123ea8e708eeeedf
+[17:19:24.888][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/c7/c99777cb229efab0fa79539df2fd751421e724
+[17:19:24.888][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/df/f01a949ec8dbbf262ff6307aa4072b121e3247
+[17:19:24.888][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/b8/8f0e986e75f655caef982b3962337487e17fb2
+[17:19:24.889][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/10/9f4edaefd0eb66634b35d627825f5fc5b83d61
+[17:19:24.889][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/refs/heads/main
+[17:19:24.892][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/53/e789d883eb8097cf8e54dafb20a9fcffa85687
+[17:19:24.893][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/85/a3e6cfbba4e4086dd5b0e280b98a393f7b3098
+[17:19:24.893][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/ca/b8e0f2783b134d2f9965570b69de9086255b59
+[17:19:24.895][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/objects/05/2949430cbf8dadb02eb6a91691a96cf168b09f
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.895][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:24.896][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:33.883][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/refs/remotes/origin/main
+[17:19:33.884][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:33.884][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:33.884][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:33.884][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/modules/work/config
+[17:19:56.885][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/modules/projects/config
+[17:19:56.885][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.885][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:56.886][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/modules/projects/modules/gccarch/config
+[17:19:56.886][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:56.886][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.886][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.886][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:19:56.887][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/modules/personal/config
+[17:19:56.887][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:19:56.887][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.887][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:19:56.887][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
+[17:20:03.885][info] [#0:script/workspace/workspace.lua:249]: Scan files at:	file:///home/cupoftea/.dotfiles/.git/index
+[17:20:03.888][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/cupoftea/.dotfiles
+[17:20:03.888][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:20:03.888][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/cupoftea/.dotfiles
+[17:20:03.888][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/cupoftea/.dotfiles
