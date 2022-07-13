@@ -1,8 +1,6 @@
 #!/usr/bin/env zsh
 
-if [[ -z $DOTFILES ]]; then
-    DOTFILES=$HOME/.dotfiles
-fi
+DOTFILES=$HOME/.dotfiles/dotfiles
 
 STOW_FOLDERS="bin,i3,nvim,tmux,ubuntu,zsh"
 
@@ -15,9 +13,9 @@ for folder in $(echo $STOW_FOLDERS | sed "s/,/ /g")
 do
     stow --restow $folder
 done
-stow --adopt --restow projects/ -t $HOME/projects
-stow --adopt --restow personal/ -t $HOME/personal
-stow --adopt --restow work/ -t $HOME/work
+stow --adopt --restow projects -t $HOME/projects
+stow --adopt --restow personal -t $HOME/personal
+stow --adopt --restow work -t $HOME/work
 popd
 
 # Install lua-language-server

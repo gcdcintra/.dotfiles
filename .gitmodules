@@ -1,9 +1,0 @@
-[submodule "work"]
-	path = work
-	url = git@github.com:gcdcintra/work.git
-[submodule "projects"]
-	path = projects
-	url = git@github.com:gcdcintra/projects.git
-[submodule "personal"]
-	path = personal
-	url = git@github.com:gcdcintra/personal.git

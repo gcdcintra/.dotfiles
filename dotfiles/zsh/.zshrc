@@ -71,7 +71,8 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git ssh-agent)
+zstyle :omz:plugins:ssh-agent helper ksshaskpass
 
 source $ZSH/oh-my-zsh.sh
 
@@ -102,4 +103,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source ~/.zsh_profile
 
-alias luamake=/home/cupoftea/personal/lua-language-server/3rd/luamake/luamake
+alias luamake=/home/cupoftea/.dotfiles/lua-language-server/3rd/luamake/luamake

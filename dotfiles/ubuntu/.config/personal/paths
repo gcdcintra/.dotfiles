@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+addToPath /home/cupoftea/.dotfiles/lua-language-server/bin/Linux
