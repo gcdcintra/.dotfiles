@@ -30,12 +30,6 @@ nmap("<leader>Y", "\"+Y")
 nnoremap("<leader>d", "\"_d")
 vnoremap("<leader>d", "\"_d")
 
-vnoremap("<leader>d", "\"_d")
-
--- This is going to get me cancelled
-inoremap("<C-c>", "<Esc>")
-
-nnoremap("Q", "<nop>")
 nnoremap("<C-f>", "<cmd>silent !tmux neww tmux-sessionizer<CR>")
 
 nnoremap("<C-k>", "<cmd>cnext<CR>zz")
@@ -45,3 +39,4 @@ nnoremap("<leader>j", "<cmd>lprev<CR>zz")
 
 nnoremap("<leader>s", ":%s/\\<<C-r><C-w>\\>/<C-r><C-w>/gI<Left><Left><Left>")
 nnoremap("<leader>x", "<cmd>!chmod +x %<CR>", { silent = true })
+

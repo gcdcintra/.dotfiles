@@ -1,25 +1,28 @@
 local Remap = require("gccnvim.keymap")
 local nnoremap = Remap.nnoremap
 
+-- Telescope keymap
 nnoremap("<C-p>", ":Telescope")
 nnoremap("<leader>ps", function()
-    require('telescope.builtin').grep_string({ search = vim.fn.input("Grep For > ")})
+    require('telescope.builtin').grep_string({ search = vim.fn.input("Grep For > ") })
 end)
 nnoremap("<C-p>", function()
     require('telescope.builtin').git_files()
 end)
-nnoremap("<Leader>pf", function()
-    require('telescope.builtin').find_files()
+nnoremap("<leader>pt", function()
+    require('telescope.builtin').treesitter()
 end)
-nnoremap("<leader>pw", function()
-    require('telescope.builtin').grep_string { search = vim.fn.expand("<cword>") }
+nnoremap("<leader>pf", function()
+    require('telescope.builtin').find_files()
 end)
 nnoremap("<leader>pb", function()
     require('telescope.builtin').buffers()
 end)
-nnoremap("<leader>vh", function()
+nnoremap("<leader>ph", function()
     require('telescope.builtin').help_tags()
 end)
+
+-- gccnvim.telescope keymap
 nnoremap("<leader>vrc", function()
     require('gccnvim.telescope').search_dotfiles({ hidden = true })
 end)
@@ -32,9 +35,11 @@ end)
 nnoremap("<leader>gb", function()
     require('gccnvim.telescope').git_branches()
 end)
+
+-- gccnvim.telescope keymap
 nnoremap("<leader>gw", function()
-    require('telescope').extensions.git_worktree.git_worktrees()
+    require('gccnvim.telescope').extensions.git_worktree.git_worktrees()
 end)
 nnoremap("<leader>gm", function()
-    require('telescope').extensions.git_worktree.create_git_worktree()
+    require('gccnvim.telescope').extensions.git_worktree.create_git_worktree()
 end)

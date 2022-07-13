@@ -21,8 +21,8 @@ stow --adopt --restow work/ -t $HOME/work
 popd
 
 # Install lua-language-server
-mkdir -p $HOME/.config/nvim/lua-language-server
-pushd $HOME/.config/nvim/lua-language-server
+mkdir -p $HOME/.dotfiles/lua-language-server
+pushd $HOME/.dotfiles/lua-language-server
 wget https://github.com/sumneko/lua-language-server/releases/download/3.4.2/lua-language-server-3.4.2-linux-x64.tar.gz
 tar -xf lua-language-server-3.4.2-linux-x64.tar.gz
 rm lua-language-server-3.4.2-linux-x64.tar.gz
