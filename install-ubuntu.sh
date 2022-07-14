@@ -11,7 +11,7 @@ git submodule update --init --recursive
 pushd $DOTFILES
 for folder in $(echo $STOW_FOLDERS | sed "s/,/ /g")
 do
-    stow --restow $folder
+    stow --restow $folder -t $HOME
 done
 stow --adopt --restow projects -t $HOME/projects
 stow --adopt --restow personal -t $HOME/personal
