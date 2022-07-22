@@ -20,7 +20,7 @@ rm lua-language-server-3.4.2-linux-x64.tar.gz
 popd
 
 # Update submodules
-git submodule update --remote --merge
+git submodule update --init --recursive --remote --merge
 
 # Stow dotfiles
 pushd $DOTFILES
