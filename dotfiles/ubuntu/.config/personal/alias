@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#
+
 alias python="python3"
 alias vim="$VIM"
 
@@ -9,5 +9,5 @@ alias projects="cd ~/projects"
 alias vimdir="cd ~/.config/nvim"
 
 alias i3cfg="nvim $XDG_CONFIG_HOME/i3/config"
-alias install_dot="zsh $DOTFILES/ubuntu-install.sh && source ~/.zshrc"
+alias install_dot="zsh /home/cupoftea/.dotfiles/install-ubuntu.sh && source ~/.zshrc"
 
