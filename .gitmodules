@@ -1,16 +1,12 @@
 [submodule "dotfiles/projects"]
 	path = dotfiles/projects
 	url = git@github.com:gcdcintra/projects.git
-    branch = master
 [submodule "dotfiles/work"]
 	path = dotfiles/work
 	url = git@github.com:gcdcintra/work.git
-    branch = main
 [submodule "dotfiles/personal"]
 	path = dotfiles/personal
 	url = git@github.com:gcdcintra/personal.git
-    branch = main
 [submodule "dotfiles/nvim/.config/nvim"]
 	path = dotfiles/nvim/.config/nvim
 	url = git@github.com:gcdcintra/nvim.git
-    branch = main
